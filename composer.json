@@ -1,0 +1,16 @@
+{
+    "name": "lenovo/movie-booking",
+    "require": {
+        "phpmailer/phpmailer": "^6.9",
+        "cboden/ratchet": "^0.4.4"
+    },
+    
+        "autoload": 
+        {
+            "psr-4": {
+                "MyApp\\": "src/"
+            }
+        
+        }
+    
+}
